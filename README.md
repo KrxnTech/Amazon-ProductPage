@@ -1,4 +1,4 @@
-AMAZON PRODUCT PAGE USING REACT JS
+<img width="772" height="291" alt="Screenshot 2026-01-01 213118" src="https://github.com/user-attachments/assets/7aade6b6-2085-4364-8329-50e52449f508" />AMAZON PRODUCT PAGE USING REACT JS
 -
 This project is a React JS based Amazon-style product listing page built as part of a learning activity.
 The goal of this project is to understand core React concepts by building a real UI instead of isolated examples.
@@ -33,49 +33,18 @@ Reusable UI components
 
 FOLDER STRUCTURE OVERVIEW
 -
-Amazon-Product-Page
-│
-├── node_modules
-│
-├── public
-│
-├── src
-│   │
-│   ├── assets
-│   │   └── Logitech_MX_Master_image
-│   │
-│   ├── components
-│   │   │
-│   │   ├── Base
-│   │   │   └── Base.jsx
-│   │   │
-│   │   ├── Heading
-│   │   │   └── Heading.jsx
-│   │   │
-│   │   ├── Pricelabel
-│   │   │   └── Pricelabel.jsx
-│   │   │
-│   │   ├── ProductCard
-│   │   │   └── ProductCard.jsx
-│   │   │
-│   │   └── Extra
-│   │       └── Extra.jsx
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   └── index.css
-│
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── README.md
-└── vite.config.js
+<img width="277" height="604" alt="image" src="https://github.com/user-attachments/assets/fc3d0db3-a34e-47af-b235-44455803de23" />
 
+SHAP SHOTS OF PROJECT
+-
+Created By Me : ) 
 
-This structure keeps assets, components, and logic well organized and scalable.
+<img width="1370" height="675" alt="Screenshot 2026-01-01 213108" src="https://github.com/user-attachments/assets/8f2dc4dd-1886-470a-9668-7990f85e9a62" />
+
+Give in Activity : )
+
+<img width="772" height="291" alt="Screenshot 2026-01-01 213118" src="https://github.com/user-attachments/assets/c6604ce2-1d63-44cf-9ef6-1e293a6d0c25" />
+
 
 COMPONENT DESIGN APPROACH
 -
