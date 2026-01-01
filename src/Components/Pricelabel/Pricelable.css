@@ -1,0 +1,29 @@
+.PRICELABLE {
+    height: 70px;
+    width: 350px;
+    background: linear-gradient(135deg,
+            #f6e27a,
+            #e6c65c,
+            #d4af37,
+            #e6c65c);
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.PRICE_1 {
+    text-decoration: line-through;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 1vw;
+}
+
+.PRICE_2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 1vw;
+}

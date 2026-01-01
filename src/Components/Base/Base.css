@@ -1,6 +1,6 @@
 .BASE {
-    height: 610px;
-    width: 71.5%;
+    height: 730px;
+    width: 72%;
     margin: 90px auto;
     border: 2px solid black;
     background-color: white;
@@ -10,8 +10,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 15px;
     margin-top: 60px;
+    gap: 10px;
+}
+
+.PRICE_LABLE {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 
 
