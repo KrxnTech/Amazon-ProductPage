@@ -1,0 +1,26 @@
+.CARD {
+    height: 490px;
+    width: 350px;
+    border: 2px solid black;
+
+}
+
+.IMAGE_ {
+    height: 70%;
+    width: 100%;
+    object-fit: cover;
+    transition: 0.2s all ease;
+}
+
+.PRODUCT_TITLE {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 1vw;
+    text-align: center;
+}
+
+li {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 0.8vw;
+}
