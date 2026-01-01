@@ -1,17 +1,17 @@
-AMAZON PRODUCT PAGE USING REACT JS
+AMAZON PRODUCT PAGE USING REACT JS 💫
 -
 This project is a React JS based Amazon-style product listing page built as part of a learning activity.
 The goal of this project is to understand core React concepts by building a real UI instead of isolated examples.
 
 The application focuses on component-based architecture, reusable UI blocks, and dynamic data rendering using props.
 
-PROJECT OVERVIEW
+PROJECT OVERVIEW ✨
 -
 The project replicates a simplified Amazon product card layout where multiple products are displayed with images, features, and pricing information.
 
 Each product is rendered dynamically using reusable components and data passed through props.
 
-TECHNOLOGIES USED
+TECHNOLOGIES USED 🔥
 -
 React JS
 JavaScript
@@ -19,7 +19,7 @@ HTML
 CSS
 Vite
 
-CORE REACT CONCEPTS IMPLEMENTED
+CORE REACT CONCEPTS IMPLEMENTED ✅
 -
 JSX syntax
 Functional components
@@ -31,11 +31,11 @@ Conditional rendering
 Component-level styling
 Reusable UI components
 
-FOLDER STRUCTURE OVERVIEW
+FOLDER STRUCTURE OVERVIEW 📂
 -
 <img width="277" height="604" alt="image" src="https://github.com/user-attachments/assets/fc3d0db3-a34e-47af-b235-44455803de23" />
 
-SHAP SHOTS OF PROJECT
+SHAP SHOTS OF PROJECT 🤙
 -
 Created By Me : ) 
 
@@ -46,14 +46,14 @@ Give in Activity : )
 <img width="772" height="291" alt="Screenshot 2026-01-01 213118" src="https://github.com/user-attachments/assets/c6604ce2-1d63-44cf-9ef6-1e293a6d0c25" />
 
 
-COMPONENT DESIGN APPROACH
+COMPONENT DESIGN APPROACH 😏
 -
 Each UI section is broken into reusable components.
 The ProductCard component receives product details as props and renders them dynamically.
 
 Pricing, headings, and layouts are handled as independent components to maintain separation of concerns.
 
-LEARNING OUTCOMES
+LEARNING OUTCOMES 🥇
 -
 Improved understanding of React component flow
 Clear understanding of props and data passing
@@ -61,7 +61,7 @@ Hands-on experience with rendering dynamic content
 Better folder organization and project structuring
 Confidence in building UI-focused React projects
 
-PROJECT STATUS
+PROJECT STATUS 💌
 -
 Completed as a learning activity
 Future improvements may include responsiveness, hover effects, and interactivity
