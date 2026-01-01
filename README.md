@@ -1,4 +1,4 @@
-<img width="772" height="291" alt="Screenshot 2026-01-01 213118" src="https://github.com/user-attachments/assets/7aade6b6-2085-4364-8329-50e52449f508" />AMAZON PRODUCT PAGE USING REACT JS
+AMAZON PRODUCT PAGE USING REACT JS
 -
 This project is a React JS based Amazon-style product listing page built as part of a learning activity.
 The goal of this project is to understand core React concepts by building a real UI instead of isolated examples.
